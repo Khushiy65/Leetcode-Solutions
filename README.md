@@ -8,6 +8,7 @@ My daily Leetcode problem solutions in C++.
 | ------- |
 | [0001-two-sum](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -35,6 +36,7 @@ My daily Leetcode problem solutions in C++.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -85,4 +87,8 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
