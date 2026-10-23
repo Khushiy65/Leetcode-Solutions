@@ -63,6 +63,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -116,4 +117,8 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
