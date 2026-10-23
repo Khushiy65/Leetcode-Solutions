@@ -8,6 +8,7 @@ My daily Leetcode problem solutions in C++.
 | ------- |
 | [0001-two-sum](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -29,6 +30,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0283-move-zeroes) |
