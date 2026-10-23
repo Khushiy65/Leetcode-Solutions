@@ -30,6 +30,7 @@ My daily Leetcode problem solutions in C++.
 | [0075-sort-colors](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -102,4 +103,8 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
