@@ -8,12 +8,14 @@ My daily Leetcode problem solutions in C++.
 | ------- |
 | [0001-two-sum](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +32,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -38,4 +41,16 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
