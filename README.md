@@ -17,6 +17,7 @@ My daily Leetcode problem solutions in C++.
 | [0283-move-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 <!---LeetCode Topics End-->
