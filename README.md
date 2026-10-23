@@ -57,6 +57,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [3848-check-digitorial-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3848-check-digitorial-permutation) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -70,6 +71,7 @@ My daily Leetcode problem solutions in C++.
 | [0204-count-primes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [3848-check-digitorial-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3848-check-digitorial-permutation) |
 ## Binary Search
 |  |
 | ------- |
