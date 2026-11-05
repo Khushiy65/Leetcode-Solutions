@@ -22,6 +22,7 @@ My daily Leetcode problem solutions in C++.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2717-semi-ordered-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
 | [2765-longest-alternating-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ My daily Leetcode problem solutions in C++.
 | [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2717-semi-ordered-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,4 +136,5 @@ My daily Leetcode problem solutions in C++.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
