@@ -11,6 +11,7 @@ My daily Leetcode problem solutions in C++.
 | [0031-next-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2717-semi-ordered-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
 ## Divide and Conquer
@@ -131,4 +133,5 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
