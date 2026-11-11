@@ -9,6 +9,7 @@ My daily Leetcode problem solutions in C++.
 | [0001-two-sum](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -74,6 +75,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -138,6 +140,7 @@ My daily Leetcode problem solutions in C++.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
