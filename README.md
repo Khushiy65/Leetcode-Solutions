@@ -13,6 +13,7 @@ My daily Leetcode problem solutions in C++.
 | [0053-maximum-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -31,6 +32,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -143,5 +145,6 @@ My daily Leetcode problem solutions in C++.
 | [0048-rotate-image](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
