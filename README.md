@@ -29,6 +29,7 @@ My daily Leetcode problem solutions in C++.
 | [2717-semi-ordered-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
 | [2765-longest-alternating-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ My daily Leetcode problem solutions in C++.
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ My daily Leetcode problem solutions in C++.
 | [0204-count-primes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2765-longest-alternating-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -147,6 +150,7 @@ My daily Leetcode problem solutions in C++.
 | ------- |
 | [0060-permutation-sequence](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
