@@ -141,6 +141,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
 | ------- |
