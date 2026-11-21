@@ -24,6 +24,7 @@ My daily Leetcode problem solutions in C++.
 | [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2717-semi-ordered-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
 | [2765-longest-alternating-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
@@ -36,6 +37,7 @@ My daily Leetcode problem solutions in C++.
 | [0073-set-matrix-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@ My daily Leetcode problem solutions in C++.
 | [0075-sort-colors](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +102,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2765-longest-alternating-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
 ## Number Theory
 |  |
@@ -142,6 +146,7 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
