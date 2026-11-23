@@ -142,6 +142,7 @@ My daily Leetcode problem solutions in C++.
 ## String
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Greedy
@@ -162,4 +163,8 @@ My daily Leetcode problem solutions in C++.
 | [0059-spiral-matrix-ii](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/3417-zigzag-grid-traversal-with-skip) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
