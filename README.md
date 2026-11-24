@@ -25,6 +25,7 @@ My daily Leetcode problem solutions in C++.
 | [0268-missing-number](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -176,4 +177,8 @@ My daily Leetcode problem solutions in C++.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
