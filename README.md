@@ -26,6 +26,7 @@ My daily Leetcode problem solutions in C++.
 | [0283-move-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2717-semi-ordered-permutation](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2717-semi-ordered-permutation) |
 | [2765-longest-alternating-subarray](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2765-longest-alternating-subarray) |
@@ -52,6 +53,7 @@ My daily Leetcode problem solutions in C++.
 | [0189-rotate-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -145,6 +147,7 @@ My daily Leetcode problem solutions in C++.
 | [1021-remove-outermost-parentheses](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Khushiy65/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
